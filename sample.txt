@@ -1,10 +1,11 @@
 The Vision of dept is "To be a model centre for education and training in the frontier areas of Computer Science and Engineering".
 
-Dr.Umadevi V is the Hod of the department - Associate Professor & Head - Computer Science and Engineering.
 
 About Department
 
-The Department of CSE offers BE in Computer Science and Engineering and M. Tech in Computer Science and Engineering. The department has well qualified, experienced and committed faculty to provide quality industry tuned education to the students. The Department Infrastructure fulfills the requirements of academics, supports research and learning skills on the latest technology in the industry. The research culture among the students is harnessed at the UG and PG level augmented by the approved research center of VTU, Belgaum.
+The Department of CSE offers BE in Computer Science and Engineering and M. Tech in Computer Science and Engineering. Dr.Umadevi V is the Hod of the department - Associate Professor & Head - Computer Science and Engineering.
+
+The department has well qualified, experienced and committed faculty to provide quality industry tuned education to the students. The Department Infrastructure fulfills the requirements of academics, supports research and learning skills on the latest technology in the industry. The research culture among the students is harnessed at the UG and PG level augmented by the approved research center of VTU, Belgaum.
 
 
 
@@ -18,3 +19,4 @@ Department of Computer Science & Engineering started in the year 1983 with an in
 
 
 Mission
+The mission of CSE department is to educate students in the areas of computer science by providing best practices of teaching-learning process for careers in software industry/higher education/research.
