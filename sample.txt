@@ -1,5 +1,7 @@
 Hod of the dept is Dr.Umadevi V .
 
+The dept has 7 subjects.
+
 Associate Professor & Head - Computer Science and Engineering
 
 About Department
